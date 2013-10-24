@@ -1,4 +1,10 @@
 
+0.15.8 / 2013-10-24
+==================
+
+ * add request .accept()
+ * add xml mime type to request.types
+
 0.15.7 / 2013-10-19 
 ==================
 
